@@ -26,13 +26,17 @@ SecBeastAPK orchestrates industry-standard tooling (APKTool, JADX, ProjectDiscov
 ---
 
 ## Screenshots
+<img width="1013" height="475" alt="image" src="https://github.com/user-attachments/assets/341577f2-4961-4496-a90e-1a0f2c5e387b" />
 
 Terminal output uses Rich tables, progress indicators, and severity-colored summaries. Add your own screenshots under `docs/screenshots/` after first runs (`README` intentionally ships without binary images).
 
 Suggested captures:
 
-1. `secbeastapk ./samples/app.apk --full` — summary table  
-2. Generated `output/<slug>/report.html` — executive dashboard  
+1.
+<img width="1015" height="565" alt="image" src="https://github.com/user-attachments/assets/bbc94dd6-e547-4960-a33b-02640818ead8" />
+ 
+2. 
+<img width="1353" height="522" alt="image" src="https://github.com/user-attachments/assets/85c129cb-7291-4238-8675-494ed98b7c83" />
 
 ---
 
