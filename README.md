@@ -60,8 +60,9 @@ Optional: MobSF (REST API), Frida, objection, mitmproxy — referenced when pres
 
 ```bash
 git clone https://github.com/secbeast/SecBeastAPK.git
-unzip SecBeastAPK.zip -d SecBeastAPK
 cd SecBeastAPK
+unzip SecBeastAPK.zip -d SecBeastAPK_src
+cd SecBeastAPK_src
 chmod +x install.sh
 ./install.sh
 source .venv/bin/activate
