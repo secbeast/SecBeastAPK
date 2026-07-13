@@ -59,7 +59,7 @@ Optional: MobSF (REST API), Frida, objection, mitmproxy — referenced when pres
 ## Quick start (Linux / macOS)
 
 ```bash
-git clone <your fork> secbeastapk
+git clone https://github.com/secbeast/SecBeastAPK.git
 cd secbeastapk
 chmod +x install.sh
 ./install.sh
