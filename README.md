@@ -34,7 +34,9 @@ Suggested captures:
 
 1.
 <img width="1015" height="565" alt="image" src="https://github.com/user-attachments/assets/bbc94dd6-e547-4960-a33b-02640818ead8" />
- 
+<img width="1007" height="265" alt="image" src="https://github.com/user-attachments/assets/e15e125e-8477-4a75-86da-a5f50e38052f" />
+
+
 2. 
 <img width="1353" height="522" alt="image" src="https://github.com/user-attachments/assets/85c129cb-7291-4238-8675-494ed98b7c83" />
 
